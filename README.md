@@ -1,10 +1,8 @@
 # Project: Basic informational site
 
-Implementation of simple todo list from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/todo-list) using **JavaScript**, **HTML** and **CSS**.
+Basic informational site that contains 4 pages (index, about, contact-me and 404) from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/basic-informational-site) created using **NodeJS**.
 
-**Live preview** of the project is available [here](https://alternateved.github.io/todo-list/).
-
-![Demo](/dist/images/peek.gif)
+**Live preview** of the project is available [here]().
 
 ## **Features**
 
